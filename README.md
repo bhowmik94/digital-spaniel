@@ -48,7 +48,7 @@ It demonstrates a sticky/floating header, responsive navigation, mock data loadi
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/bhowmik94/digital-spaniel-homepage.git
+git clone https://github.com/bhowmik94/digital-spaniel.git
 cd digital-spaniel-homepage
 ```
 ### 2. Install dependencies
