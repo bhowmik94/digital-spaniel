@@ -1,6 +1,6 @@
 # Digital Spaniel Agency - Homepage Clone
 
-This project is a responsive homepage implementation for **Digital Spaniel Agency**, built with modern frontend tooling.  
+This project is a responsive homepage implementation for **Digital Spaniel Agency**.  
 It demonstrates a sticky/floating header, responsive navigation, mock data loading via Redux Toolkit, and a scalable component structure.
 
 ---
@@ -15,9 +15,9 @@ It demonstrates a sticky/floating header, responsive navigation, mock data loadi
 - **Responsive Navigation**  
   - On desktop: inline navigation links with hover underline animation.  
   - On mobile/tablet: collapses into a hamburger menu that slides in/out.  
-  - Closes when tapping outside or toggling the close button.  
+  - Closes when toggling the close button.  
 
-- **Hero Section**  
+- **Landing Section**  
   - Side-by-side text and background image on desktop.  
   - Stacked layout on smaller screens.  
 
