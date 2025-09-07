@@ -59,13 +59,6 @@ npm install
 ```bash
 npm run dev
 ```
-### 1. Clone the repository
-```bash
-git clone https://github.com/your-username/digital-spaniel-homepage.git
-cd digital-spaniel-homepage
-```
----
-
 ## 👨‍💻 Developer
 Developed by Sourav Bhowmik.
 Built with ❤️ using React + Vite + Tailwind + Redux Toolkit.
