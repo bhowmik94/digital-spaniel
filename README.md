@@ -36,7 +36,7 @@ It demonstrates a sticky/floating header, responsive navigation, mock data loadi
 
 ## 🛠️ Tech Stack
 
-- [React](https://react.dev/) (with [Vite](https://vitejs.dev/)) – modern, fast frontend setup.
+- [React](https://react.dev/) (with [Vite](https://vitejs.dev/)) – frontend setup.
 - [Tailwind CSS](https://tailwindcss.com/) – utility-first CSS framework.
 - [Redux Toolkit](https://redux-toolkit.js.org/) – state management & async thunks.
 - [Faker.js](https://fakerjs.dev/) – mock data generation.
